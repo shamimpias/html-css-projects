@@ -14,7 +14,7 @@ h2{
 #heading-parent{
     font-family: "Space Grotesk", sans-serif;
     ;
-    background-image: linear-gradient(90deg,#b123d4,#020202,transparent),url(/assets/hero.jpg);
+    background-image: linear-gradient(90deg,#b123d4,#020202,transparent),url(https://raw.githubusercontent.com/shamimpias/html-css-projects/refs/heads/main/assets/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
